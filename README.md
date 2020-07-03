@@ -1,3 +1,9 @@
+This simple todo-list app is used to study React and create-react-app.
+
+![sample picture](/img/todo-list.png)
+
+===================================================================================================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
